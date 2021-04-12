@@ -8,6 +8,6 @@
 A simple mind map with some automation/bash commands/tools execution. I hope it may help you all :)
 
 <h1 align="left">
-  <img src="me_dheeraj-HUNT-2021.png" alt="Dheerajmadhukar" width="700px"></a>
+  <img src="me_dheeraj-HUNT-A-DAY-2021.png" alt="Dheerajmadhukar" width="700px"></a>
   <br>
 </h1>
